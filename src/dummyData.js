@@ -1,0 +1,260 @@
+export const userData = [
+    {
+      name: 'Jan',
+      "Sales": "4",
+    },
+    {
+      name: 'Feb',
+      "Sales": "8",
+    },
+    {
+      name: 'Mar',
+      "Sales": "11",
+    },
+    {
+      name: 'Apr',
+      "Sales": "9",
+    },
+    {
+      name: 'May',
+      "Sales": "6",
+    },
+    {
+      name: 'Jun',
+      "Sales": "9",
+    },
+    {
+      name: 'Jul',
+      "Sales": "12",
+    },
+    {
+        name: 'Aug',
+        "Sales": "11",
+      },
+      {
+        name: 'Sep',
+        "Sales": "4",
+      },
+      {
+        name: 'Oct',
+        "Sales": "7",
+      },
+      
+      {
+        name: 'Nov',
+        "Sales": "6",
+      },
+      {
+        name: 'Dec',
+        "Sales": "12",
+      },
+     
+  ];
+
+
+  export const userRows = [
+    { id: 1, 
+      Username: 'Anupam Mohanty', 
+      avatar: "https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+      "idcard": 1234456789,
+      email: "anup@gmail.com",
+      transaction: "1,20,000"
+    },
+    { id: 2, 
+      Username: 'Anupam Mohanty', 
+      avatar: "https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+      "idcard": 1234456789,
+      email: "anup@gmail.com",
+      transaction: "1,20,000"
+    },
+    { id: 3, 
+      Username: 'Anupam Mohanty', 
+      avatar: "https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+      "idcard": 1234456789,
+      email: "anup@gmail.com",
+      transaction: "1,20,000"
+    },
+    { id: 4, 
+      Username: 'Anupam Mohanty', 
+      avatar: "https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+      "idcard": 1234456789,
+      email: "anup@gmail.com",
+      transaction: "1,20,000"
+    },
+    { id: 5, 
+      Username: 'Anupam Mohanty', 
+      avatar: "https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+      "idcard": 1234456789,
+      email: "anup@gmail.com",
+      transaction: "1,20,000"
+    },
+    { id: 6, 
+      Username: 'Anupam Mohanty', 
+      avatar: "https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+      "idcard": 1234456789,
+      email: "anup@gmail.com",
+      transaction: "1,20,000"
+    },
+    { id: 7, 
+      Username: 'Anupam Mohanty', 
+      avatar: "https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+      "idcard": 1234456789,
+      email: "anup@gmail.com",
+      transaction: "1,20,000"
+    },
+    { id: 8, 
+      Username: 'Anupam Mohanty', 
+      avatar: "https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+      "idcard": 1234456789,
+      email: "anup@gmail.com",
+      transaction: "1,20,000"
+    },
+    { id: 9, 
+      Username: 'Anupam Mohanty', 
+      avatar: "https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+      "idcard": 1234456789,
+      email: "anup@gmail.com",
+      transaction: "1,20,000"
+    },
+    { id: 10, 
+      Username: 'Anupam Mohanty', 
+      avatar: "https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+      "idcard": 1234456789,
+      email: "anup@gmail.com",
+      transaction: "1,20,000"
+    },
+    { id: 11, 
+      Username: 'Anupam Mohanty', 
+      avatar: "https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+      "idcard": 1234456789,
+      email: "anup@gmail.com",
+      transaction: "1,20,000"
+    },
+    { id: 12, 
+      Username: 'Anupam Mohanty', 
+      avatar: "https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+      "idcard": 1234456789,
+      email: "anup@gmail.com",
+      transaction: "1,20,000"
+    },
+    { id: 13, 
+      Username: 'Anupam Mohanty', 
+      avatar: "https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+      "idcard": 1234456789,
+      email: "anup@gmail.com",
+      transaction: "1,20,000"
+    },
+    { id: 14, 
+      Username: 'Anupam Mohanty', 
+      avatar: "https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+      "idcard": 1234456789,
+      email: "anup@gmail.com",
+      transaction: "1,20,000"
+    },
+    { id: 15, 
+      Username: 'Anupam Mohanty', 
+      avatar: "https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+      "idcard": 1234456789,
+      email: "anup@gmail.com",
+      transaction: "1,20,000"
+    },
+  ];
+
+  export const productRows = [
+    { id: 1, 
+      name: 'Levis Pants', 
+    "Price From": "₹ 2555",
+      img: "https://logos-marcas.com/wp-content/uploads/2020/04/Levi%E2%80%99s-emblema.png",
+      "barNum": 1234,
+      status: "Available",
+      
+    },
+    { id: 2, 
+      name: 'Jockey T-Shirts', 
+    "Price From": "₹ 555",
+      img: "https://brandslogo.net/wp-content/uploads/2013/03/jockey-underwear-vector-logo.png",
+      "barNum": 123,
+      status: "Available",
+      
+    },
+    { id: 3, 
+      name: 'Louis Phillips Pants', 
+    "Price From" :"₹ 3555",
+      img: "https://3.bp.blogspot.com/-ewmsV-0cw4U/XCYNomSUgHI/AAAAAAAALG4/VFFt89Fbq9s_K3H834DrH8Nf7KnGi71CwCLcBGAs/s1600/DD.jpg",
+      "barNum": 1235,
+      status: "Available",
+      
+    },
+    { id: 4, 
+      name: 'Jack & Jones', 
+    "Price From": "₹ 2855",
+      img: "https://www.ambiencemalls.com/logos/07-04-02am_08-11-2019-jack_and_jones.jpg",
+      "barNum": 123,
+      status: "Available",
+      
+    },
+    { id: 5, 
+      name: 'Wranngler', 
+    "Price From": "₹ 2455",
+      img: "https://logos-download.com/wp-content/uploads/2016/04/Wrangler_logo_and_slogan_Born_Ready.png",
+      "barNum": 1239,
+      status: "Not Available",
+      
+    },
+    { id: 6, 
+      name: 'GAS', 
+    "Price From": "₹ 7555",
+      img: "https://logos-download.com/wp-content/uploads/2016/11/GAS_Jeans_logo_wordmark.png",
+      "barNum": 1243,
+      status: "Not Available",
+      
+    },
+    { id: 7, 
+      name: 'Benetton', 
+    "Price From": "₹ 1555",
+      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Benetton_Group_logo.svg/2560px-Benetton_Group_logo.svg.png",
+      "barNum": 1023,
+      status: "Available",
+      
+    },
+    { id: 8, 
+      name: 'Gucci', 
+    "Price From": "₹ 9555",
+      img: "https://www.pngall.com/wp-content/uploads/11/Gucci-PNG-Photo.png",
+      "barNum": 1423,
+      status: "Not Available",
+      
+    },
+    { id: 9, 
+      name: 'Crocodile', 
+    "Price From": "₹ 955",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgOyqV-lOFqf4s4Dxhq7M5Uv5L_E0P-xK_AmUbq5Gj3jgmzHUIaFxvLo0tDb0ONmlwVE&usqp=CAU",
+      "barNum": 123456,
+      status: "Available",
+      
+    },
+    { id: 10, 
+      name: 'Lacoste', 
+    "Price From": "₹ 6555",
+      img: "https://www.nicepng.com/png/detail/48-488350_lacoste-logo-png-download-lacoste-logo.png",
+      "barNum": 1293,
+      status: "Not Available",
+      
+    },
+    { id: 11, 
+      name: 'Twills', 
+      "Price From": "₹ 1755",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMWORwDS9BTsLFf13fp4E6o38pDIqOcpB8-GAAkMJVF2rLnC79hJXS2qjVLcE44lgy8U&usqp=CAU",
+      "barNum": 12523,
+      status: "Available",
+      
+    },
+    { id: 12, 
+      name: 'Nothing', 
+     "Price From": "₹ 1555",
+      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Nothing_logo.svg/2560px-Nothing_logo.svg.png",
+      "barNum": 15623,
+      status: "Not Available",
+      
+    }
+  ];

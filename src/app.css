@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    /* height: 100%; */
+    margin-top: 10px ;
+}
+
+/* .others{
+    flex: 4;
+    /* background-color: darkcyan; 
+} */
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
