@@ -44,22 +44,31 @@ export default function ProductList() {
           renderCell: (okay) => {
             return (
              <>
-             <Link to={"/product/"+okay.row.id}>
+             {/*<Link to={"/product/"+okay.row.id}>*/}
                 <button className="productListEdit">Edit</button>
-             </Link>
+             {/*</Link>*/}
               
-              <DeleteOutline className="prductListDelete" onClick={() => {handleDelete(okay.row.id)}}/>
+              <DeleteOutline className="prductListDelete" onClick={() => {handleDelete(okay.row.id)}} style={{color: "red"}}/>
              </> 
             );
           },
         },
       ];
 
+      
+
   return (
     <div className="productList">
+    <div className="productTitleContainer">
+           <h1 className="productTitle">Product</h1> 
+        <Link to="/newproduct">
+           <button className="productAddButton">Create</button>
+        </Link> 
+     </div>
+
       <DataGrid
       rows={data} disableSelectionOnClick columns={columns}
-      pageSize={8}
+      pageSize={5}
       rowsPerPageOptions={[5]}
       checkboxSelection
       />

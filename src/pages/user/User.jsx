@@ -16,8 +16,8 @@ export default function User() {
            <div className="userShowTop">
              <img src="https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGhvdG98ZW58MHx8MHx8&w=1000&q=80" alt="" className="userShowImg" />
              <div className="userShowTopTitle">
-               <span className="userShowUsername">Anupam Mohanty</span>
-               <span className="userShowUserTitle">Some Shop</span>
+               <span className="userShowUsername">Anupam  Mohanty</span>
+               <span className="userShowUserTitle">Shop Name Here</span>
              </div>
            </div>
            <div className="userShowBottom">

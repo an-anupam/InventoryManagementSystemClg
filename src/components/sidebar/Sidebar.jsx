@@ -2,6 +2,8 @@
 import "./sidebar.css"
 import { LineStyle, Timeline, TrendingUp, Person, CurrencyRupee, Inventory2, Assessment, MailOutline, Feedback, ChatBubbleOutline, ManageSearch, HourglassDisabled, ReportGmailerrorred  } from '@mui/icons-material';
 import { Link } from "react-router-dom";
+// import 'antd/dist/antd.css';
+
 
 function Sidebar() {
   return (
@@ -48,9 +50,14 @@ function Sidebar() {
                </li>
              </Link>
               
-               <li className="sidebarListItem">
-                  <CurrencyRupee className="sidebarIcon"/> Transaction
-               </li>
+             <Link to="/transaction" className="link">
+                <li className="sidebarListItem">
+                  <CurrencyRupee className="sidebarIcon"/> Payment
+                </li>
+             </Link>
+              
+
+
                <li className="sidebarListItem">
                   <Assessment className="sidebarIcon"/> Progression
                </li>

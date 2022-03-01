@@ -2,6 +2,7 @@
 
 .productList{
     flex: 4;
+    /* height: calc(100vh - 50px); */
 }
 
 .productListItem{
@@ -30,4 +31,12 @@
 .productListDelete{
     color: red;
     cursor: pointer;
+}
+
+.productTitleContainer{
+    margin-bottom: 10px;
+}
+
+.productAddButton{
+    margin-right: 100px;
 }
